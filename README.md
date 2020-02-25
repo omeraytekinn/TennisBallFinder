@@ -8,6 +8,6 @@
   ( python3 -m pip install opencv-python scikit-image numpy imutils )
 
 ## Note:
-- After first run, comment "createDatasetFromFolder("tennis")"(line 99) this line
+- After first run, comment line 99 -> "createDatasetFromFolder("tennis")"
 - Put test images into test folder
 - Results will be in result folder
